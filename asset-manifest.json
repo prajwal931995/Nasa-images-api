@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/nasa-images/static/js/main.c3553ded.js",
-    "index.html": "/nasa-images/index.html",
-    "main.c3553ded.js.map": "/nasa-images/static/js/main.c3553ded.js.map"
+    "main.js": "/Nasa-images-api/static/js/main.c3553ded.js",
+    "index.html": "/Nasa-images-api/index.html",
+    "main.c3553ded.js.map": "/Nasa-images-api/static/js/main.c3553ded.js.map"
   },
   "entrypoints": [
     "static/js/main.c3553ded.js"
